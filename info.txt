@@ -1,0 +1,16 @@
+Character
+   │
+   └── "Bas IS separator par todo"
+
+Recursive
+   │
+   └── "Pehle paragraph → phir line → phir word → phir character"
+
+Language
+   │
+   └── "Code ki language batao → us language ke separators use karo"
+       └── Python / JS / Markdown / HTML ...
+
+Document / sementic
+   │
+   └── "Document ki structure ke according intelligently split karo"
